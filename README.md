@@ -19,8 +19,4 @@ i)paper.js
 
 ii)howler.js
 
-#GROUP MEMBERS
 
-i)SAPTAMI DAS (1728208)-CSSE
-
-ii)VISHAKHA SINHA (1728237)-CSSE
